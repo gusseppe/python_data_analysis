@@ -1,2 +1,2 @@
 # python_data_analysis
-Grafica la tendencia en la bolsa de valores.
+Grafica la tendencia de las acciones en la bolsa de valores.
