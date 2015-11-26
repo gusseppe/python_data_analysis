@@ -8,10 +8,17 @@ Grafica la tendencia de las acciones en la bolsa de valores.
 ## Paquetes necesarios:
 
  sudo apt-get install python-pip python-dev build-essential
+ 
  sudo pip install numpy --upgrade
+ 
  sudo pip install pandas
+ 
  sudo easy_install -U distribute
+ 
  sudo apt-get install libpng-dev libjpeg8-dev libfreetype6-dev
+ 
  sudo pip install matplotlib numexpr cython tables
+ 
  sudo apt-get install libhdf5-serial-dev
+ 
  sudo pip install plotly
